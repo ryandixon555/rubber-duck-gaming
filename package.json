@@ -27,7 +27,6 @@
     "gatsby-transformer-sharp": "^2.1.17",
     "jquery": "^3.3.1",
     "json-loader": "^0.5.7",
-    "node-sass": "^4.14.1",
     "popper.js": "^1.12.3",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
